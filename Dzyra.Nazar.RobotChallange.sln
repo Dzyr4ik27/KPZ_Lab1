@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzyra.Nazar.RobotChallange", "Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.csproj", "{291A6103-F6A2-4474-8EEF-D170DA27E381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzyra.Nazar.RobotChallange.Test", "Dzyra.Nazar.RobotChallange.Test\Dzyra.Nazar.RobotChallange.Test.csproj", "{82B78F23-68A4-45D8-A188-F10235929802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291A6103-F6A2-4474-8EEF-D170DA27E381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291A6103-F6A2-4474-8EEF-D170DA27E381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291A6103-F6A2-4474-8EEF-D170DA27E381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291A6103-F6A2-4474-8EEF-D170DA27E381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B78F23-68A4-45D8-A188-F10235929802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B78F23-68A4-45D8-A188-F10235929802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B78F23-68A4-45D8-A188-F10235929802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B78F23-68A4-45D8-A188-F10235929802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8936663F-C1E3-427A-AD04-41F95525A6E1}
+	EndGlobalSection
+EndGlobal

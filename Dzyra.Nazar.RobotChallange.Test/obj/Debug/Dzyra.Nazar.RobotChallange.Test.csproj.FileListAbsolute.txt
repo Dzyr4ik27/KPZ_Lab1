@@ -1,0 +1,17 @@
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Dzyra.Nazar.RobotChallange.Test.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Dzyra.Nazar.RobotChallange.Test.pdb
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Dzyra.Nazar.RobotChallange.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Robot.Common.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Dzyra.Nazar.RobotChallange.pdb
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\obj\Debug\Dzyra.Nazar.RobotChallange.Test.csprojAssemblyReference.cache
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\obj\Debug\Dzyra.Nazar.RobotChallange.Test.csproj.CoreCompileInputs.cache
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\obj\Debug\Dzyra.Nazar.RobotChallange.Test.csproj.CopyComplete
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\obj\Debug\Dzyra.Nazar.RobotChallange.Test.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange.Test\obj\Debug\Dzyra.Nazar.RobotChallange.Test.pdb

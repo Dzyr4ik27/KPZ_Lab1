@@ -1,0 +1,8 @@
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\obj\Debug\Dzyra.Nazar.RobotChallange.csprojAssemblyReference.cache
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\obj\Debug\Dzyra.Nazar.RobotChallange.csproj.CoreCompileInputs.cache
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\bin\Debug\Dzyra.Nazar.RobotChallange.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\bin\Debug\Dzyra.Nazar.RobotChallange.pdb
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\bin\Debug\Robot.Common.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\obj\Debug\Dzyra.Nazar.RobotChallange.csproj.CopyComplete
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\obj\Debug\Dzyra.Nazar.RobotChallange.dll
+D:\Univer2018\KPZ\Lab1_kpz\Dzyra.Nazar.RobotChallange\Dzyra.Nazar.RobotChallange\obj\Debug\Dzyra.Nazar.RobotChallange.pdb
